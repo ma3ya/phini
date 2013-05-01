@@ -1,0 +1,9 @@
+{
+    "require": {
+        "phing/phing": "dev-master",
+        "phake/phake": "dev-master",
+        "piece/stagehand-testrunner": "3.6.*@dev",
+        "phpunit/phpunit": "3.7.*@dev",
+        "behat/behat": "2.4.*@dev"
+    }
+}
